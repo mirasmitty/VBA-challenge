@@ -1,3 +1,4 @@
 # VBA-challenge
 Module 2 Homework
-# Asked my girlfriend for some debugging assistance, but the code was informed by my classwork
+
+No code imported, saved as a .bas file due to inability to save as .vba and file size upload issues with the .xlsm
